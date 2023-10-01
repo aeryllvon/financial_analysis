@@ -1,8 +1,8 @@
 ### Bank Statement Analysis - **Achieved 66.31% of potential savings.**
 
+This paper demonstrated the **application** of **data analysis** techniques in **personal finance**, offering **insights** and **recommendations** to optimise budget allocations and improve financial well-being. By **analysing** transaction data, individuals can gain a better understanding of their **financial** behavious, make **informed decisions** and work towards achieving financial stability and independence. The **methodologies** and **insights** presented in this paper can serve as a foundation for **developing** more advanced and personalised **financial** management **tools** and **strategies**.
+
 <a href="https://aeryllvon.github.io/financial_analysis/savings.html" target="_blank">![Savings](savings.png)</a>
-
-
 
 **Navigating Finances with Data-Driven Insights and Smart Spending**
 
@@ -10,6 +10,8 @@ This study aims to explore personal finance by analysing transaction data from a
 
 
 ## Methodology
+
+The code can be found <a href="https://aeryllvon.github.io/financial_analysis/bank_statement_dataset.ipynb" target="_blank">here</a>
 **Data Collection and Pre-processing**
 
 **Data Source** - Personal Bank Statement which was exported to a csv file.
@@ -40,14 +42,33 @@ This study aims to explore personal finance by analysing transaction data from a
 
 **Data Cleaning** - The dataset was pre-processed to handle **missing values**, **convert data types** and **remove** unncessary **columns**.
 
-**Analysis Performed** - **Spending Trends Analysis** 
+**Analysis Performed**
 
-Evaluated spending over time to **identify patterns** and **trends** in expenditures across various categories.
+**Spending Breakdown Analysis** 
+
+<a href="https://aeryllvon.github.io/financial_analysis/interactivetreemap.html" target="_blank">![treemap](tm.png)
+
+**Category-wise Spending Analysis**
+
+<a href="https://aeryllvon.github.io/financial_analysis/categorybarplot.html" target="_blank">![categorywise](bp.png)
+
+<a href="https://aeryllvon.github.io/financial_analysis/sunburst.html" target="_blank">![categorywise](sb.png)
+
+**Time Series of Spending Patterns**
+
+Succinctly **evaluates** and **illustrates** spending **trends** across various categories over time.
+
+<a href="https://aeryllvon.github.io/financial_analysis/line.html" target="_blank">![Timeseries](lineg.png)
+
+**Anomaly Detection**
+
+Employed **statistical** methods to identify unusual or suspicious transactions.
+
+<a href="https://aeryllvon.github.io/financial_analysis/anomalies.html" target="_blank">![Anomalies](anomaly.png)
 
 
+**Discussion**
 
-
-
-
+The insights derived from this analysis offer valuable information for individuals looking to optimise their budget and improve financial literacy. Understanding spending trends, identifying major spending categories and recognising potential savings opportunities enables more informed financial decision-making. However, personal finance management is a complex and individual-centric domain and what works for one may not work for others. A more personalised and adaptive approach, considering individual preferences, financial goals and risk tolerance, can lead to more effeective budgeting and financial management strategies.
 
 
