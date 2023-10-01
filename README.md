@@ -11,7 +11,8 @@ This study aims to explore personal finance by analysing transaction data from a
 
 ## Methodology
 
-The code can be found <a href="https://aeryllvon.github.io/financial_analysis/bank_statement_dataset.ipynb" target="_blank">here</a>
+The code can be found [here.](bank_statement_dataset.ipynb)
+
 **Data Collection and Pre-processing**
 
 **Data Source** - Personal Bank Statement which was exported to a csv file.
